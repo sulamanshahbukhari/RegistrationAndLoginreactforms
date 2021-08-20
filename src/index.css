@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+   
+
+}
+form {
+    width: 45%;
+    margin: 0 auto;
+    padding: 30px;
+    border: 1px solid gray;
+  
+}
+form div{
+    margin: 20px;
+
+}
